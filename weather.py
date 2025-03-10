@@ -4,7 +4,7 @@ import time
 import argparse 
 
 CITY = "Seoul"
-API_KEY = "1f282ec6e79685c6366e55f410a9d66a"  # 본인의 API 키
+API_KEY = "본인의 API 키" 
 
 # 기본 실행 횟수 (고정값)
 DEFAULT_NUM_RUNS = 1 
